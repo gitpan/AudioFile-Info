@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name: AudioFile-Info
-version: 0.01
+version: 1.02
 license: perl
 distribution_type: module
 requires:
@@ -13,10 +13,11 @@ conflicts: {}
 provides:
   AudioFile::Info:
     file: lib/AudioFile/Info.pm
-    version: 0.01
+    version: 1.02
   AudioFile::Info::MP3:
     file: lib/AudioFile/Info/MP3.pm
-    version: 0.01
+    version: 1.02
   AudioFile::Info::Ogg:
     file: lib/AudioFile/Info/Ogg.pm
+    version: 1.02
 generated_by: Module::Build version 0.19
