@@ -1,5 +1,5 @@
-AudioFile/Info version 1.12
-===========================
+AudioFile/Info version
+======================
 
 AudioFile::Info is a module for extracting information from audio files.
 Currently it works with both MP3 and Ogg Vorbis files.
@@ -15,10 +15,8 @@ To install this module type the following:
 
 DEPENDENCIES
 
-This module requires these other modules and libraries:
-
-  * MP3::ID3Lib
-  * Ogg::Vorbis::Headers
+You will need at least one of the AudioFile::Info plugin modules
+in order to do anything interesting with this module.
 
 COPYRIGHT AND LICENCE
 
