@@ -1,5 +1,5 @@
 #
-# $Id: Info.pm,v 1.7 2005/03/01 09:34:48 dave Exp $
+# $Id: Info.pm,v 1.8 2005/03/01 09:48:30 dave Exp $
 #
 
 =head1 NAME
@@ -147,7 +147,7 @@ use Carp;
 
 use YAML 'LoadFile';
 
-our $VERSION = sprintf "%d.%02d", '$Revision: 1.7 $ ' =~ /(\d+)\.(\d+)/;
+our $VERSION = sprintf "%d.%02d", '$Revision: 1.8 $ ' =~ /(\d+)\.(\d+)/;
 
 =head1 METHODS
 
@@ -239,3 +239,10 @@ This library is free software; you can redistribute it and/or modify it
 under the same terms as Perl itself.
 
 =cut
+
+#
+# $Log: Info.pm,v $
+# Revision 1.8  2005/03/01 09:48:30  dave
+# Improved test coverage
+#
+#
