@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name: AudioFile-Info
-version: 1.06
+version: 1.07
 author:
   - Dave Cross, E<lt>dave@dave.org.ukE<gt>
 abstract: Perl extension to get info from audio files.
@@ -11,5 +11,5 @@ requires:
 provides:
   AudioFile::Info:
     file: lib/AudioFile/Info.pm
-    version: 1.06
-generated_by: Module::Build version 0.23
+    version: 1.07
+generated_by: Module::Build version 0.2607
