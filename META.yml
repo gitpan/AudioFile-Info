@@ -1,6 +1,6 @@
 ---
 name: AudioFile-Info
-version: 1.09
+version: 1.10
 author:
   - 'Dave Cross, E<lt>dave@mag-sol.comE<gt>'
 abstract: Perl extension to get info from audio files.
@@ -14,7 +14,7 @@ provides:
   AudioFile::Info:
     file: lib/AudioFile/Info.pm
     version: 1.09
-generated_by: Module::Build version 0.2805
+generated_by: Module::Build version 0.2808
 meta-spec:
   url: http://module-build.sourceforge.net/META-spec-v1.2.html
   version: 1.2
